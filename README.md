@@ -7,59 +7,41 @@ Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite
 
 * Participants must use one or more datasets from the EODH catalogue (Notebooks where multiple datasets are integrated score extra). 
 * Participants may combine external datasets if required.  
-* Notebooks **MUST** be reproducible and able to be shared publicly. Any submissions using commercial or proprietary data must adhere to any licence terms, and must be able to be run by anyone without them needing to purchase data or sign up to any licence.
+* Notebooks **MUST** be reproducible and able to be shared publicly, including self-installation of any package dependencies. The notebook must conduct some Earth Observation analysis.. Any submissions using commercial or proprietary data must adhere to their specific licence terms, and must be able to be run by anyone without them needing to purchase data or sign up to any licence.
 * The code can be completed using either Python or R. No other code language will be accepted.
+* Machine Learning applications are welcomed, please contact the EODH team with your processing requirements. 
+* Notebooks must be compatible with, and testable on, the EODH Jupyter Notebook environment. We encourage notebook submissions to be developed and hosted within the EODH Jupyter environment. 
 * Please name all authors or contributors to the notebook so that they can be appropriately acknowledged.
 * The template notebook should be followed for all submissions.
+* An individual and/or organisation can submit more than one Notebook.
 
 ## Eligibility 
 
 The notebook can be an individual or collaborative submission and can be submitted on behalf of an organisation, but this is not a requirement.  Everyone is invited to submit, including students, researchers, research groups and institutes, startups, developers and EO professionals. EODH see this competition as an ideal opportunity for early career employees, students and graduates and we encourage submissions from across the academic, industry and public sectors. 
 
+## Submission instructions 
 
-## Submission Requirements  
+We will be using git and GitHub. If you are not familiar with these technologies then this competition provides a great opportunity to learn about them. The following guides explain some of the common tasks:
 
-Captured within the EODH Community Notebook Competition Evaluation Rubric 
+* [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo](Forking a repository)
+* [https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository](Cloning, branches and creating a commit) 
+* [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request](Pull requests) 
 
-Executable Jupyter notebook, including self-installation of any package dependencies. The notebook must conduct some Earth Observation analysis. 
 
-Notebook must be compatible with, and testable on the EODH Jupyter notebooks environment. We encourage notebook submissions to be developed and hosted within the EODH Jupyter notebooks environment. 
+### Submission process
 
-Document the notebook with markdown cells to explain the analysis process, and include a summary of the final result or visualisation. 
+* Click **Use this template** in this repository and create your own independent repository.  
+* This independent repository can then be cloned into an EODH Jupyter environment or wherever you will work. 
+* Complete your notebook work in that repository. 
+* Make the repository public. 
 
-Must use open data only so that the workflow is reproducible for the panel and community.  
+### Submission form 
 
-All submissions must be openly reproducible by the EODH assessment team. As appropriate, please include reproducibility instructions within the notebook 
+Email enquiries@eodatahub.org.uk with a link to your submission repository (which should contain an obvious Notebook). In the email, also list all authors, the title and description of the notebook and the notebook filename.
 
-Name all authors or contributors of the notebook so that they can be appropriately acknowledged. 
+### Post-submission
 
-Machine Learning applications are welcomed, please contact the team with your processing requirements. 
-
-It must be an .ipynb file, we do not accept .py scripts as a complete notebook submission. 
-
-The notebook must be written in Python. 
-
- 
-
-Submission instructions 
-
-An example competition repo with the structure you want participants to start from is hosted at xxxxxxxxxx. It includes a submission template and submission form. It could include some example submissions. It should be modelled by this example https://github.com/eopf-toolkit/community-notebook-competition 
-
-In that repo, go to Settings → General. 
-
-Enable Template repository. 
-
-Participants click Use this template and create their own independent repo.  
-
-This independent repo could then be cloned in their EODH Jupyter environment 
-
-They complete their notebook work in that repo. 
-
-They make the repo public and share the link as an email to enquiries@eodatahub.org.uk . Their repo must contain 2 parts, a submission form and an .ipynb notebook submission. 
-
-Submission form 
-
-Contains list of authors, title and description of notebook, how it could be applied or adapted to commercial datasets, and further follow on work. Also a confirmation of licensing of the notebook. 
+The EODH may decide to add a selection of the submitted notebooks into this repository so that there is a central location where new EODH users can browse the possibilities of the platform. 
 
 ## Licensing, Copyright and Intellectual Property
 
