@@ -1,7 +1,7 @@
 # eodh-community-notebook-competition
 
 ## Overview 
-Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite participants to create reproducible and educational notebooks using the Hub's Notebook service and a selection of EODH provided datasets (see the [https://eodatahub.org.uk/static-apps/sg-rc-ui/prod/index.html#/](Catalogue) for details). 
+Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite participants to create reproducible and educational notebooks using the Hub's Notebook service and a selection of EODH provided datasets (see the [Catalogue](https://eodatahub.org.uk/static-apps/sg-rc-ui/prod/index.html#/) for details). 
 
 ## Rules
 
@@ -23,9 +23,9 @@ The notebook can be an individual or collaborative submission and can be submitt
 
 We will be using git and GitHub. If you are not familiar with these technologies then this competition provides a great opportunity to learn about them. The following guides explain some of the common tasks:
 
-* [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo](Forking a repository)
-* [https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository](Cloning, branches and creating a commit) 
-* [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request](Pull requests) 
+* [Forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+* [Cloning, branches and creating a commit](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository) 
+* [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) 
 
 
 ### Submission process
