@@ -7,7 +7,7 @@ Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite
 
 * Participants must use one or more datasets from the EODH catalogue (Notebooks where multiple datasets are integrated score extra). 
 * Participants may combine external datasets if required.  
-* Notebooks **MUST** be reproducible and able to be shared publicly, including self-installation of any package dependencies. The notebook must conduct some Earth Observation analysis.. Any submissions using commercial or proprietary data must adhere to their specific licence terms, and must be able to be run by anyone without them needing to purchase data or sign up to any licence.
+* Notebooks **MUST** be reproducible and able to be shared publicly, including self-installation of any package dependencies. The notebook must conduct some Earth Observation analysis. Any submissions using commercial or proprietary data must adhere to their specific licence terms, and must be able to be run by anyone without them needing to purchase data or sign up to any licence.
 * The code can be completed using either Python or R. No other code language will be accepted.
 * Machine Learning applications are welcomed, please contact the EODH team with your processing requirements. 
 * Notebooks must be compatible with, and testable on, the EODH Jupyter Notebook environment. We encourage notebook submissions to be developed and hosted within the EODH Jupyter environment. 
