@@ -6,10 +6,10 @@ notebook_authors: [ # Must contain at least one entry
     "Author 2"
 ]
 notebook_title: "Looking at Urban Heat Islands"
-coding_language_used: "Python" # One of "R", "Python", or "Julia"
+coding_language_used: "Python" # One of "R" or "Python"
 makes_use_of_eodh_data: true # Must be true
 runs_on_eodh_jupyter_environment: true # Either true or false
-data_sources_used: ["Sentinel-1", "EOCIS-CHUK-LST"] # Must contain at least one of "Sentinel-1", "Sentinel-2", or "EOCIS-CHUK-LST"
+data_sources_used: ["Sentinel-1", "EOCIS-CHUK-LST"] # Must contain at least one EODH Catalogue data source e.g. "Sentinel-1", "Sentinel-2", etc.
 all_declarations_affirmed: true # Must be true
 ---
 
@@ -21,7 +21,7 @@ all_declarations_affirmed: true # Must be true
 
 ## References: Provide the URLs of any code sources that you used in authoring this notebook (optional)
 
-## Commercial Data: How could your notebook make use of the commercial datasets on the EODH and how would you adapt the notebook to do this? (100 words)
+## Commercial Data: Potential for Future Inclusion of Commercial Data: How could your notebook make use of the commercial datasets on the EODH and how would you adapt the notebook to do this? Not requiring commercial data is a valid response. (100 words)
 
 ## Declarations
 By submitting this notebook:
