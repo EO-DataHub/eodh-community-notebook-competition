@@ -3,6 +3,16 @@
 ## Overview 
 Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite participants to create reproducible and educational notebooks using the Hub's Notebook service and a selection of EODH provided datasets (see the [Catalogue](https://eodatahub.org.uk/static-apps/sg-rc-ui/prod/index.html#/) for details). 
 
+## Key Dates
+The competition will be open for around 8 weeks, with a number of drop in support and coworking sessions available for you to attend during the course of the competition timeline. If attending the kick-off webinar, you will receive a calendar invite to these support sessions via email.
+
+| Competition kick-off | Thursday 29th October 2026 |
+| Office hours 1 | Week commencing 9th November 2026 |
+| Coworking session 1 | Week commencing 16th November 2026 |
+| Office hours 2 | Week commencing 30th November 2026 |
+| Coworking session 2 | Week commencing 7th December 2026 |
+| **Notebook submission deadline** | **Tuesday 15th December 2026** |
+
 ## Rules
 
 * Participants must use one or more datasets from the EODH catalogue (Notebooks where multiple datasets are integrated score extra). 
