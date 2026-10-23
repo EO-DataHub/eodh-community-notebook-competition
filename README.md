@@ -6,6 +6,8 @@ Welcome to the EO Data Hub (EODH) Community Notebook Competition where we invite
 ## Key Dates
 The competition will be open for around 8 weeks, with a number of drop in support and coworking sessions available for you to attend during the course of the competition timeline. If attending the kick-off webinar, you will receive a calendar invite to these support sessions via email.
 
+| Event | Date |
+| --- | --- |
 | Competition kick-off | Thursday 29th October 2026 |
 | Office hours 1 | Week commencing 9th November 2026 |
 | Coworking session 1 | Week commencing 16th November 2026 |
