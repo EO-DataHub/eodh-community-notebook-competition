@@ -8,12 +8,12 @@ The competition will be open for around 8 weeks, with a number of drop in suppor
 
 | Event | Date |
 | --- | --- |
-| Competition kick-off | Thursday 29th October 2026 |
-| Office hours 1 | Week commencing 9th November 2026 |
-| Coworking session 1 | Week commencing 16th November 2026 |
-| Office hours 2 | Week commencing 30th November 2026 |
-| Coworking session 2 | Week commencing 7th December 2026 |
-| **Notebook submission deadline** | **Tuesday 15th December 2026** |
+| Competition kick-off | Thursday 29th October 2026, 2-3pm |
+| Office hours 1 | Wednesday 11th November 2026, 2-3pm​ |
+| Coworking session 1 | Wednesday 18th November 2026, 2-3pm​ |
+| Office hours 2 | Wednesday 2nd December 2026, 2-3pm​ |
+| Coworking session 2 | Wednesday 9th December 2026, 2-3pm |
+| **Notebook submission deadline** | **Tuesday 15th December 2026 at 23:59** |
 
 ## Rules
 
