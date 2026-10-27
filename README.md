@@ -32,6 +32,14 @@ The competition will be open for around 8 weeks, with a number of drop in suppor
 
 The notebook can be an individual or collaborative submission and can be submitted on behalf of an organisation, but this is not a requirement.  Everyone is invited to submit, including students, researchers, research groups and institutes, startups, developers and EO professionals. EODH see this competition as an ideal opportunity for early career employees, students and graduates and we encourage submissions from across the academic, industry and public sectors. 
 
+## Assessment criteria
+
+| Category | Points available | High-scoring description | Scoring areas |
+|---|---:|---|---|
+| **Reproducibility** | 40 points | Robust, openly reproducible and shareable EO workflow that runs end to end on the EODH Jupyter notebooks environment, can be independently reproduced by the EODH assessment team, demonstrates a useful off-the-shelf application and has clear potential to scale. | Execution, Reproducibility, Workflow, Shareability, Scalability, Documentation |
+| **Content (Visualisation OR Outputs)** | 30 points | Engaging notebook-generated visualisation that tells a clear story or brings data to life, OR well-presented, decision-ready outputs are produced by the analysis. | Notebook-generated result, Communication, Presentation quality, Engagement OR Decision-readiness |
+| **Innovation (Use of data)** | 30 points | Multiple EODH datasets are synergised effectively in a scientifically sound analysis that benefits from their combination OR demonstrates an innovative or novel EO use case. | Scientific soundness, Attribution, Data synergy OR Innovation |
+
 ## Submission instructions 
 
 We will be using git and GitHub. If you are not familiar with these technologies then this competition provides a great opportunity to learn about them. The following guides explain some of the common tasks:
