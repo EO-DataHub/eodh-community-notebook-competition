@@ -16,10 +16,11 @@ The competition will be open for around 8 weeks, with a number of drop in suppor
 | **Notebook submission deadline** | **Tuesday 15th December 2026 at 23:59** |
 
 Following the kick-off webinar which took place, the below resources are now accessible:
-▶️ [Community Notebook Competition Kick-Off Webinar recording | Autumn 2026 | Thursday 29th October 2026](https://youtu.be/3YWjeEbjSgk?si=aavV1TefMPBFxAVz)
-📄 [Community Notebook Competition Kick-Off Webinar slidedeck.pdf](https://github.com/user-attachments/files/34482770/Community.Notebook.Competition.kick-off.webinar.Slidedeck.-.to.share.pdf)
 
-📅 To join the competition support sessions to ask a question, or join our time-blocked coworking sessions for quiet, focussed work, email [enquiries@eodatahub.org.uk](enquiries@eodatahub.org.uk) to request to be added to the calendar invites.
+* ▶️ [Community Notebook Competition Kick-Off Webinar recording | Autumn 2026 | Thursday 29th October 2026](https://youtu.be/3YWjeEbjSgk?si=aavV1TefMPBFxAVz)
+* 📄 [Community Notebook Competition Kick-Off Webinar slidedeck.pdf](https://github.com/user-attachments/files/34482770/Community.Notebook.Competition.kick-off.webinar.Slidedeck.-.to.share.pdf)
+
+📅 To join the competition support sessions to ask a question, or join our time-blocked coworking sessions for quiet, focussed work, email [enquiries@eodatahub.org.uk](mailto:enquiries@eodatahub.org.uk) to request to be added to the calendar invites.
 
 ## Rules
 
